@@ -6,11 +6,11 @@ This is a simple single-page application (SPA) built using React that displays a
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [License](#license)
+- Features
+- Installation
+- Usage
+- Folder Structure
+
 
 ## Features
 
